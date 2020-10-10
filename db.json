@@ -1,0 +1,55 @@
+{
+  "total_count": "2",
+  "items": [
+    {
+      "Ref": "Ref 1",
+      "Cat": "cat 1",
+      "Nom": "Nom 1",
+      "CP": "CP 1",
+      "ville": "Tanger",
+      "Tva": "TVA 1",
+      " Contact": [
+        {
+          "Nom_Contact": "Issam",
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        },
+        {
+          "Nom_Contact": "Imad",
+          "latitude": "60.7672700",
+          "longitude": "5.7997500"
+        },
+        {
+          "Nom_Contact": "Mohamed",
+          "latitude": "2.7672700",
+          "longitude": "30.7997500"
+        }
+      ]
+    },
+    {
+      "Ref": "Ref 2",
+      "Cat": "cat 2",
+      "Nom": "Nom 2",
+      "CP": "72000",
+      "ville": "casablanca",
+      "Tva": "TVA 2",
+      "Contact": [
+        {
+          "Nom_Contact": "Omar",
+          "latitude": "30.7672700",
+          "longitude": "-10.7997500"
+        },
+        {
+          "Nom_Contact": "Ilham",
+          "latitude": "55.7672700",
+          "longitude": "2.7997500"
+        },
+        {
+          "Nom_Contact": "Abdel",
+          "latitude": "3.7997500",
+          "longitude": "29.7997500"
+        }
+      ]
+    }
+  ]
+}
